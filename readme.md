@@ -1,4 +1,4 @@
-# Project Title
+# ECG
 
 Simple ECG implementation using React Native SVG
 
@@ -15,19 +15,6 @@ Simple ECG implementation using React Native SVG
 * to run android run yarn android
 * to run ios run yarn ios
 
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
+ Ebrahim hassan 
 
-Contributors names and contact info
-
-ex. Ebrahim hassan 
-
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
