@@ -1,2 +1,22 @@
-# rn-ecg-example
-this is a challenge  to implement heart ECG using react native svg 
+# Project Title
+
+Simple ECG implementation using React Native SVG & Animated
+
+## Description
+   * the challenge is to implement ecg with animating end of the ecg line
+   * implementing shared element transition
+
+## Getting Started
+
+
+### Installing
+
+* yarn install 
+* to run android run yarn android
+* to run ios run yarn ios
+
+
+## Authors
+ Ebrahim hassan 
+
+
